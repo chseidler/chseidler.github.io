@@ -13,6 +13,9 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
   <link href="./css/ch.css" rel="stylesheet">
+
+  <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
+  <script src="./js/show.hide.js"></script>
 </head>
 
 <body class="d-flex h-100 text-center text-white bg-dark">
@@ -22,22 +25,22 @@
       <div>
         <h3 class="float-md-start mb-0">Christian Seidler</h3>
         <nav class="nav nav-masthead justify-content-center float-md-end">
-          <a class="nav-link" aria-current="page" href="#">Sobre</a>
-          <a class="nav-link" href="#">Certificados</a>
-          <a class="nav-link" href="#">Projetos</a>
-          <a class="nav-link" href="#">Engenheiro Mecânico</a>
+          <button class="nav-link" onclick="ativarSobre()">Sobre</button>
+          <button class="nav-link" onclick="ativarCertificado()">Certificados</button>
+          <button class="nav-link" onclick="ativarProjetos()">Projetos</button>
+          <button class="nav-link" onclick="ativarEngenheiro()">Engenheiro Mecânico</button>
         </nav>
       </div>
     </header>
 
+    <main class="px-3">
     <div id="sobre">
-      <main class="px-3">
-        <h1>Back End JAVA Developer</h1>
+              <h1>Back End JAVA Developer</h1>
         <p class="lead">Pequena descrição aqui.</p>
-      </main>
+      
     </div>
 
-    <div class="container py-3" id="certificados">
+    <div class="container py-3" id="certificados" style="display: none">
       <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
 
         <div class="col">
@@ -100,19 +103,53 @@
           </div>
         </div>
 
+        <div class="col d-flex">
+          <div class="card mb-4 rounded-3 shadow-sm">
+            <div class="card-header py-1 bg-dark">
+              <h4 class="my-0 text-light bg-dark">Alfamídia</h4>
+            </div>
+            <div class="card-body bg-dark">
+              <h4 class="card-title pricing-card-title"><br>Git e GitHub</h4>
+              <ul class="list-unstyled mt-3 mb-4">
+                <li>10h</li>
+              </ul><br>
+              <a href="http://aluno.alfamidia.com.br/certificado?id=17680" target="_blank" class="btnCh">Link</a>
+            </div>
+          </div>
+        </div>
 
+        <div class="col d-flex">
+          <div class="card mb-4 rounded-3 shadow-sm">
+            <div class="card-header py-1 bg-dark">
+              <h4 class="my-0 text-light bg-dark">DIO</h4>
+            </div>
+            <div class="card-body bg-dark">
+              <h4 class="card-title pricing-card-title">Become Remote</h4>
+              <ul class="list-unstyled mt-3 mb-4">
+                <li>17h</li>
+              </ul><br>
+              <a href="https://certificates.digitalinnovation.one/317CAAF3" target="_blank" class="btnCh">Link</a>
+            </div>
+          </div>
+        </div>
+
+        
 
       </div>
     </div>
 
+    <div id="projetos" style="display: none">
+      <h1>Projetos</h1>
+      <p class="lead">Pequena descrição aqui.</p>
+  </div>
 
 
-    <div id="engenheiro">
-      <main class="px-3">
+    <div id="engenheiro" style="display: none">
         <h1>Engenheiro Mecânico</h1>
         <p class="lead">Pequena descrição aqui.</p>
-      </main>
     </div>
+  </main>
+
 
     <footer class="mt-auto text-white-50">
       <p><a href="https://www.linkedin.com/in/chcseidler/" class="text-white"><svg xmlns="http://www.w3.org/2000/svg"
