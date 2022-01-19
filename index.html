@@ -16,6 +16,7 @@
 
   <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
   <script src="./js/show.hide.js"></script>
+  <script src="./js/cert.js"></script>
 </head>
 
 <body class="d-flex h-100 text-center text-white bg-dark">
@@ -42,101 +43,6 @@
     </div>
 
     <div class="container py-3" id="certificados" style="display: none">
-      <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
-
-        <div class="col d-flex">
-          <div class="card mb-4 rounded-3 shadow-sm">
-            <div class="card-header py-1 bg-dark">
-              <h4 class="my-0 text-light bg-dark">Alfamídia</h4>
-            </div>
-            <div class="card-body bg-dark">
-              <h4 class="card-title pricing-card-title">MaisPraTi - Programação Java Outubro</h4>
-              <ul class="list-unstyled mt-3 mb-4">
-                <li>200h</li>
-              </ul>
-              <a href="https://aluno.alfamidia.com.br/certificado-aprovado?id=9122" target="_blank" class="btnCh">Link</a>
-            </div>
-          </div>
-        </div>
-
-        <div class="col d-flex">
-          <div class="card mb-4 rounded-3 shadow-sm">
-            <div class="card-header py-1 bg-dark">
-              <h4 class="my-0 text-light bg-dark">IFRS</h4>
-            </div>
-            <div class="card-body bg-dark">
-              <h4 class="card-title pricing-card-title">Programação Básica com Java I</h4>
-              <ul class="list-unstyled mt-3 mb-4">
-                <li>40h</li>
-              </ul>
-              <a href="https://drive.google.com/file/d/10bFsqS_vVsBf5jEQN2NjH_ehAOIg_5Wx/view?usp=sharing" target="_blank" class="btnCh">Link</a>
-            </div>
-          </div>
-        </div>
-
-        <div class="col d-flex">
-          <div class="card mb-4 rounded-3 shadow-sm">
-            <div class="card-header py-1 bg-dark">
-              <h4 class="my-0 text-light bg-dark">IFRS</h4>
-            </div>
-            <div class="card-body bg-dark">
-              <h4 class="card-title pricing-card-title">Programação Básica com Java II</h4>
-              <ul class="list-unstyled mt-3 mb-4">
-                <li>40h</li>
-              </ul>
-              <a href="https://drive.google.com/file/d/1cPUMcwOCOhEYZVmWh6QJW74VsTYZotVQ/view?usp=sharing" target="_blank" class="btnCh">Link</a>
-            </div>
-          </div>
-        </div>
-
-        <div class="col d-flex">
-          <div class="card mb-4 rounded-3 shadow-sm">
-            <div class="card-header py-1 bg-dark">
-              <h4 class="my-0 text-light bg-dark">IFRS</h4>
-            </div>
-            <div class="card-body bg-dark">
-              <h4 class="card-title pricing-card-title">Programação Básica com Java III</h4>
-              <ul class="list-unstyled mt-3 mb-4">
-                <li>40h</li>
-              </ul>
-              <a href="https://drive.google.com/file/d/1b_0xLG1Oe4xwJ1a0F7z-y0I36FI59nKT/view?usp=sharing" target="_blank" class="btnCh">Link</a>
-            </div>
-          </div>
-        </div>
-
-        <div class="col d-flex">
-          <div class="card mb-4 rounded-3 shadow-sm">
-            <div class="card-header py-1 bg-dark">
-              <h4 class="my-0 text-light bg-dark">Alfamídia</h4>
-            </div>
-            <div class="card-body bg-dark">
-              <h4 class="card-title pricing-card-title"><br>Git e GitHub</h4>
-              <ul class="list-unstyled mt-3 mb-4">
-                <li>10h</li>
-              </ul><br>
-              <a href="http://aluno.alfamidia.com.br/certificado?id=17680" target="_blank" class="btnCh">Link</a>
-            </div>
-          </div>
-        </div>
-
-        <div class="col d-flex">
-          <div class="card mb-4 rounded-3 shadow-sm">
-            <div class="card-header py-1 bg-dark">
-              <h4 class="my-0 text-light bg-dark">DIO</h4>
-            </div>
-            <div class="card-body bg-dark">
-              <h4 class="card-title pricing-card-title">Become Remote</h4>
-              <ul class="list-unstyled mt-3 mb-4">
-                <li>17h</li>
-              </ul><br>
-              <a href="https://certificates.digitalinnovation.one/317CAAF3" target="_blank" class="btnCh">Link</a>
-            </div>
-          </div>
-        </div>
-
-        
-
-      </div>
     </div>
 
     <div class="container py-3" id="projetos" style="display: none">
@@ -186,6 +92,9 @@
           - Plano de Manutenção/Manuais;<br>
           - Projetos (SolidWorks).</p>
     </div>
+
+    <script>window.onload = certificados();</script>
+
   </main>
 
 
