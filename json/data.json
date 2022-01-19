@@ -1,0 +1,226 @@
+﻿{
+    "Certificados": [
+        {
+            "Certificador": "Alfamídia",
+            "Descrição": "MaisPraTi - Programação Java Outubro",
+            "Link": "https://aluno.alfamidia.com.br/certificado-aprovado?id=9122",
+            "Horas": "200"
+        },
+        {
+            "Certificador": "IFRS",
+            "Descrição": "Programação Básica com Java I",
+            "Link": "https://drive.google.com/file/d/10bFsqS_vVsBf5jEQN2NjH_ehAOIg_5Wx/view?usp=sharing",
+            "Horas": "40"
+        },
+        {
+            "Certificador": "IFRS",
+            "Descrição": "Programação Básica com Java II",
+            "Link": "https://drive.google.com/file/d/1cPUMcwOCOhEYZVmWh6QJW74VsTYZotVQ/view?usp=sharing",
+            "Horas": "40"
+        },
+        {
+            "Certificador": "IFRS",
+            "Descrição": "Programação Básica com Java III",
+            "Link": "https://drive.google.com/file/d/1b_0xLG1Oe4xwJ1a0F7z-y0I36FI59nKT/view?usp=sharing",
+            "Horas": "40"
+        },
+        {
+            "Certificador": "Alfamídia",
+            "Descrição": "Git e GitHub",
+            "Link": "http://aluno.alfamidia.com.br/certificado?id=17680",
+            "Horas": "10"
+        },
+        {
+            "Certificador": "DIO",
+            "Descrição": "Become Remote",
+            "Link": "https://certificates.digitalinnovation.one/317CAAF3",
+            "Horas": "17"
+        },
+        {
+            "Certificador": "DIO",
+            "Descrição": "Projetos ágeis com SCRUM",
+            "Link": "https://certificates.digitalinnovation.one/BB581D0F",
+            "Horas": "2"
+        },
+        {
+            "Certificador": "DIO",
+            "Descrição": "Modelando um banco de dados na prática com SQL SERVER",
+            "Link": "https://certificates.digitalinnovation.one/27E53B0C",
+            "Horas": "2"
+        },
+        {
+            "Certificador": "DIO",
+            "Descrição": "SQL Server: Boas práticas em bancos relacionais",
+            "Link": "https://certificates.digitalinnovation.one/F3A98DF4",
+            "Horas": "2"
+        },
+        {
+            "Certificador": "DIO",
+            "Descrição": "SQL SERVER - Criando suas primeiras consultas",
+            "Link": "https://certificates.digitalinnovation.one/351D8BF4",
+            "Horas": "4"
+        },
+        {
+            "Certificador": "DIO",
+            "Descrição": "Introdução a microsserviços",
+            "Link": "https://certificates.digitalinnovation.one/D76F8A51",
+            "Horas": "2"
+        },
+        {
+            "Certificador": "DIO",
+            "Descrição": "Introdução a APIs e métodos HTTP",
+            "Link": "https://certificates.digitalinnovation.one/D78130EB",
+            "Horas": "2"
+        },
+        {
+            "Certificador": "DIO",
+            "Descrição": "Introdução aos Conceitos de API e Clean Architecture",
+            "Link": "https://certificates.digitalinnovation.one/DAF4BC77",
+            "Horas": "4"
+        },
+        {
+            "Certificador": "DIO",
+            "Descrição": "Criando API Gateways no ambiente Azure Spring Cloud",
+            "Link": "https://certificates.digitalinnovation.one/56ACAE76",
+            "Horas": "6"
+        },
+        {
+            "Certificador": "DIO",
+            "Descrição": "Microsserviços em Spring Cloud com Java",
+            "Link": "https://certificates.digitalinnovation.one/8DAACF83",
+            "Horas": "4"
+        },
+        {
+            "Certificador": "DIO",
+            "Descrição": "Introdução ao framework Spring Boot",
+            "Link": "https://certificates.digitalinnovation.one/3DEFE62F",
+            "Horas": "2"
+        },
+        {
+            "Certificador": "DIO",
+            "Descrição": "Aprenda a aplicar testes com Java",
+            "Link": "https://certificates.digitalinnovation.one/CCB3FAE9",
+            "Horas": "2"
+        },
+        {
+            "Certificador": "DIO",
+            "Descrição": "Simplificando Projetos Java com o Spring Boot",
+            "Link": "https://certificates.digitalinnovation.one/A7CB3A39",
+            "Horas": "3"
+        },
+        {
+            "Certificador": "DIO",
+            "Descrição": "Aprenda a aplicar testes com Java",
+            "Link": "https://certificates.digitalinnovation.one/CCB3FAE9",
+            "Horas": "2"
+        },
+        {
+            "Certificador": "DIO",
+            "Descrição": "Debugging Java",
+            "Link": "https://certificates.digitalinnovation.one/280A0224",
+            "Horas": "1"
+        },
+        {
+            "Certificador": "DIO",
+            "Descrição": "Tratamento de Exceções em Java",
+            "Link": "https://certificates.digitalinnovation.one/4AFD8BF9",
+            "Horas": "2"
+        },
+        {
+            "Certificador": "DIO",
+            "Descrição": "Introdução a criação de websites com HTML5 e CSS3",
+            "Link": "https://certificates.digitalinnovation.one/4C685882",
+            "Horas": "6"
+        },
+        {
+            "Certificador": "DIO",
+            "Descrição": "JavaScript ES6 essencial",
+            "Link": "https://certificates.digitalinnovation.one/83B7F2F1",
+            "Horas": "4"
+        },
+        {
+            "Certificador": "DIO",
+            "Descrição": "Introdução a Qualidade de Software",
+            "Link": "https://certificates.digitalinnovation.one/8D676438",
+            "Horas": "2"
+        },
+        {
+            "Certificador": "DIO",
+            "Descrição": "Introdução ao Ecossistema e Documentação Java",
+            "Link": "https://certificates.digitalinnovation.one/5FD61721",
+            "Horas": "2"
+        },
+        {
+            "Certificador": "DIO",
+            "Descrição": "Variáveis, Tipos de Dados e Operadores Matemáticos em Java",
+            "Link": "https://certificates.digitalinnovation.one/551E890C",
+            "Horas": "2"
+        },
+        {
+            "Certificador": "DIO",
+            "Descrição": "Lógica Condicional e Controle de Fluxos em Java",
+            "Link": "https://certificates.digitalinnovation.one/CCE29E03",
+            "Horas": "1"
+        },
+        {
+            "Certificador": "DIO",
+            "Descrição": "Estruturas de Repetição e Arrays em Java",
+            "Link": "https://certificates.digitalinnovation.one/97CAA19C",
+            "Horas": "3"
+        },
+        {
+            "Certificador": "DIO",
+            "Descrição": "Reforçando o Conceito de Laços em Java",
+            "Link": "https://certificates.digitalinnovation.one/5E0906DD",
+            "Horas": "1"
+        },
+        {
+            "Certificador": "DIO",
+            "Descrição": "Estrutura de dados em Java",
+            "Link": "https://certificates.digitalinnovation.one/4F10B519",
+            "Horas": "10"
+        },
+        {
+            "Certificador": "DIO",
+            "Descrição": "Trabalhando com Collections Java",
+            "Link": "https://certificates.digitalinnovation.one/16F56F92",
+            "Horas": "6"
+        },
+        {
+            "Certificador": "DIO",
+            "Descrição": "Implementando Collections e Streams com Java",
+            "Link": "https://certificates.digitalinnovation.one/C8E1299B",
+            "Horas": "6"
+        },
+        {
+            "Certificador": "DIO",
+            "Descrição": "Introdução a orientação a objetos com Java",
+            "Link": "https://certificates.digitalinnovation.one/39231AE2",
+            "Horas": "2"
+        },
+        {
+            "Certificador": "DIO",
+            "Descrição": "Aprenda o que são Estrutura de Dados e Algoritmos",
+            "Link": "https://certificates.digitalinnovation.one/147A3033",
+            "Horas": "2"
+        },
+        {
+            "Certificador": "DIO",
+            "Descrição": "Lógica de Programação Essencial",
+            "Link": "https://certificates.digitalinnovation.one/2658B077",
+            "Horas": "4"
+        },
+        {
+            "Certificador": "DIO",
+            "Descrição": "Introdução ao Git e ao GitHub",
+            "Link": "https://certificates.digitalinnovation.one/D4D744A3",
+            "Horas": "5"
+        },
+        {
+            "Certificador": "DIO",
+            "Descrição": "Fundamentos de Arquitetura de Sistemas",
+            "Link": "https://certificates.digitalinnovation.one/775BD67B",
+            "Horas": "6"
+        }
+    ]
+}
