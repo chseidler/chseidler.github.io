@@ -42,8 +42,14 @@
             "horas": "2"
         },
         {
+            "certificador": "IFRS",
+            "descricao": "Programador Web",
+            "link": "https://drive.google.com/file/d/1XNpfBK9u__yXNKqadiTA3sQtVXeJd7DC/view?usp=sharing",
+            "horas": "200"
+        },
+        {
             "certificador": "DIO",
-            "descricao": "Modelando um banco de dados na prática com SQL SERVER ",
+            "descricao": "Modelando um banco de dados na prática com SQL SERVER",
             "link": "https://certificates.digitalinnovation.one/27E53B0C",
             "horas": "2"
         },
